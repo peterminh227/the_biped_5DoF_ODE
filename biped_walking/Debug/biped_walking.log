@@ -1,0 +1,29 @@
+﻿Build started 5/11/2017 11:51:08 AM.
+     1>Project "D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\biped_walking\biped_walking.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\biped_walking.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include" /I"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include" /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include" /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\include" /I"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\include" /I"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\ode\src" /I"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\include" /I"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\ode\src" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D dDOUBLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\biped_walking.exe" /INCREMENTAL /NOLOGO "D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\lib\DebugDoubleLib\ode_doubled.lib" "D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\lib\DebugDoubleLib\drawstuffd.lib" user32.lib winmm.lib gdi32.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\biped_walking.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\biped_walking.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\biped_walking.lib" /MACHINE:X86 Debug\resources.res
+         Debug\biped_walking.exe.embed.manifest.res
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\biped_walking.exe.embed.manifest" /manifest Debug\biped_walking.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         biped_walking.vcxproj -> D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\biped_walking.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\biped_walking.unsuccessfulbuild".
+         Touching "Debug\biped_walking.lastbuildstate".
+     1>Done Building Project "D:\Peter Minh\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\biped_walking\biped_walking.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.62

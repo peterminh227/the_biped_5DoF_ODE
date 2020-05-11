@@ -1,0 +1,9 @@
+﻿Build started 4/25/2017 12:03:54 AM.
+     1>Project "D:\Peter_Minh\KIST_robotics_dynamic\ODE_seven_links_biped\Add Inertia Model\biped_walking_JW_updateswing_0317\BTSLIP\BTSLIP.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\BTSLIP.lastbuildstate".
+     1>Done Building Project "D:\Peter_Minh\KIST_robotics_dynamic\ODE_seven_links_biped\Add Inertia Model\biped_walking_JW_updateswing_0317\BTSLIP\BTSLIP.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.01

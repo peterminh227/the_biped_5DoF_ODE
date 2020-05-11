@@ -1,0 +1,104 @@
+﻿Build started 5/23/2017 9:27:15 PM.
+     1>Project "D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Five_links_walking\Five_links_walking.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Five_links_walking.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include" /I"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include" /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include" /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\\include" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\include" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\ode\src" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\armadillo-3.920.2\include" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\include" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\ode\src" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\libxl-3.6.5.0\bin64" /I"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\libxl-3.6.5.0\include_cpp" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D dDOUBLE /D _CONSOLE /D ARMA_USE_LAPACK /D ARMA_USE_BLAS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dynamics.cpp main_VPP_control.cpp support.cpp
+         main_VPP_control.cpp
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(130): warning C4101: 'j' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(194): warning C4101: 'i' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1182): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1182): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1183): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1183): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1186): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1186): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1187): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1187): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1190): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1190): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1191): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1191): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1225): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1227): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1228): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1229): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1230): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1231): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1233): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1234): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1235): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1236): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1237): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1239): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1240): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1241): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1242): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1244): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1245): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1247): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1249): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1250): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1251): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1252): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1253): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1255): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1256): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1257): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1258): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1259): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1260): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1261): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1262): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1263): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1265): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1268): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1269): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1270): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1271): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1272): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1273): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1275): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1276): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1277): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1278): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1279): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1280): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1301): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1001): warning C4101: 'length_LIP' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(651): warning C4101: 'SW_L_d' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1001): warning C4101: 'XCoM' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(651): warning C4101: 'range' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(651): warning C4101: 'val_swing' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1314): warning C4101: 'i' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1314): warning C4101: 'k' : unreferenced local variable
+     1>d:\doument 2017-thesis\biped_walking_jw_updateswing_0425\five_links_walking\main_vpp_control.cpp(1314): warning C4101: 'j' : unreferenced local variable
+         Generating Code...
+         Compiling...
+         support.cpp
+         dynamics.cpp
+         Generating Code...
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\Five_links_walking.exe" /INCREMENTAL /NOLOGO "D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\lib\DebugDoubleLib\ode_doubled.lib" "D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\ODE_library\lib\DebugDoubleLib\drawstuffd.lib" user32.lib winmm.lib gdi32.lib opengl32.lib glu32.lib "D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\\libxl-3.6.5.0\lib\libxl.lib" blas_win32_MT.lib lapack_win32_MT.lib /MANIFEST /ManifestFile:"Debug\Five_links_walking.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\Five_links_walking.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\Five_links_walking.lib" /MACHINE:X86 Debug\resources.res
+         Debug\Five_links_walking.exe.embed.manifest.res
+         Debug\dynamics.obj
+         Debug\main_VPP_control.obj
+         Debug\support.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Five_links_walking.exe.embed.manifest" /manifest Debug\Five_links_walking.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Five_links_walking.vcxproj -> D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Debug\Five_links_walking.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Five_links_walking.unsuccessfulbuild".
+         Touching "Debug\Five_links_walking.lastbuildstate".
+     1>Done Building Project "D:\Doument 2017-Thesis\biped_walking_JW_updateswing_0425\Five_links_walking\Five_links_walking.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.45
